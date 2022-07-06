@@ -1,1 +1,3 @@
-console.info("Hello World");
+const name = "Feri Teja Kusuma";
+
+console.log(name);
